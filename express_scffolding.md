@@ -1,6 +1,6 @@
 # express scaffolding
 
-![image-20190405165743869](/Users/kyu/Library/Application Support/typora-user-images/image-20190405165743869.png)
+![image-20190405165743869](./image-20190405165743869.png)
 
 - src 는 소스 폴더
 
