@@ -17,7 +17,7 @@
   app.use(cors)
   app.use(api)
   
-  //express default app => es 6 모듈화
+  //export default app => es 6 모듈화
   module.exports = app
   ```
 
